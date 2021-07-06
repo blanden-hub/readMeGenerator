@@ -1,0 +1,25 @@
+{
+  "name": "readmegenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blanden-hub/readMeGenerator.git"
+  },
+  "keywords": [
+    "readmegenerator"
+  ],
+  "author": "blanden-hub",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blanden-hub/readMeGenerator/issues"
+  },
+  "homepage": "https://github.com/blanden-hub/readMeGenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.1"
+  }
+}
